@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="ExampleInstrumentedTest">
+        <State />
+      </entry>
+      <entry key="app">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="$USER_HOME$/.android/avd/Medium_Phone_API_33.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2023-08-04T21:29:08.222873Z" />
+        </State>
+      </entry>
+      <entry key="useAppContext()">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="$USER_HOME$/.android/avd/Medium_Phone_API_33.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2023-08-06T08:54:57.270982Z" />
+        </State>
+      </entry>
+      <entry key="verifyAppNavigatesToLoginScreenWhenNotAuthorizedAndInternetIsAvailable()">
+        <State />
+      </entry>
+      <entry key="verifyWhenSuccessfullyAuthorizedAppNavigatesToVenuesScreen()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>

@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Venue 38",
+    "description": "In aliquip sit est ea sunt sunt. Sit in eu adipisicing ipsum enim aliquip laborum enim. Tempor ipsum enim do cillum dolore laboris in. Aute esse commodo deserunt dolor adipisicing eu quis nisi. Aliquip velit do ex mollit proident dolore amet cupidatat proident elit consectetur non est laboris.",
+    "isOpen": true,
+    "welcomeMessage": "Sit velit occaecat exercitation est amet adipisicing esse ex reprehenderit.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": true
+  },
+  {
+    "name": "Venue 84",
+    "description": "Cillum voluptate voluptate esse elit aliquip. Est commodo dolor cillum nostrud reprehenderit dolore reprehenderit ullamco anim elit consequat cupidatat amet. Adipisicing ipsum nostrud magna in cillum quis laboris nisi do. Irure amet aliqua eu non sint do eu eu.",
+    "isOpen": false,
+    "welcomeMessage": "Ut quis consectetur sunt aliquip duis dolor amet sunt quis incididunt.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": true
+  },
+  {
+    "name": "Venue 42",
+    "description": "Consequat laborum elit in exercitation fugiat ad ullamco adipisicing. Cillum eu occaecat veniam est dolore exercitation dolore esse ut ut consectetur. Proident aute ullamco eiusmod aliqua et officia quis consequat adipisicing ad dolor. Do ex exercitation veniam ullamco sit ut exercitation esse laboris.",
+    "isOpen": false,
+    "welcomeMessage": "Proident dolore adipisicing dolor sit laborum ea anim sint dolore consequat consequat reprehenderit commodo.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": true
+  },
+  {
+    "name": "Venue 68",
+    "description": "Dolor elit occaecat in nostrud commodo occaecat id incididunt enim aliqua commodo. Magna et anim aute cupidatat cupidatat officia in ea ea amet reprehenderit. Labore amet amet reprehenderit amet dolor excepteur exercitation sint tempor voluptate adipisicing in in dolore.",
+    "isOpen": true,
+    "welcomeMessage": "Ut aliqua labore adipisicing esse labore quis id exercitation sint aliqua fugiat ullamco.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": true
+  },
+  {
+    "name": "Venue 95",
+    "description": "Minim nisi exercitation eu duis eiusmod ex elit sit ex. Consequat ea proident sint occaecat velit occaecat voluptate aute ea anim ea elit enim ad. Amet irure velit exercitation esse tempor eu laboris velit ut aute labore. Deserunt adipisicing consectetur esse veniam ut et irure incididunt sunt ut est adipisicing.",
+    "isOpen": true,
+    "welcomeMessage": "Eiusmod consequat in tempor aliquip esse aute aliqua eiusmod.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": false
+  },
+  {
+    "name": "Venue 51",
+    "description": "Officia esse elit incididunt et consectetur occaecat aliqua dolore magna. Ea labore ut nostrud veniam qui aliqua excepteur. Aliquip anim officia dolor aliqua aliquip reprehenderit ad dolor labore cillum exercitation eu ipsum reprehenderit.",
+    "isOpen": false,
+    "welcomeMessage": "Culpa sit exercitation exercitation elit sunt.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": true
+  },
+  {
+    "name": "Venue 41",
+    "description": "Cupidatat ullamco laboris elit reprehenderit labore nostrud aliquip consectetur eiusmod magna aliqua. Adipisicing cupidatat culpa occaecat amet adipisicing aliqua consequat duis anim ea. Est et in culpa laboris reprehenderit dolor deserunt aute quis qui ullamco officia laboris. Consectetur commodo qui aute laboris reprehenderit adipisicing amet sit eu sint occaecat reprehenderit in.",
+    "isOpen": true,
+    "welcomeMessage": "Laboris nulla ad excepteur consectetur exercitation dolore eiusmod est magna.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": false
+  },
+  {
+    "name": "Venue 92",
+    "description": "Consequat ut cupidatat labore enim eu voluptate commodo cupidatat consequat ea ipsum ea. Nisi proident ullamco excepteur irure tempor. Ad veniam proident in nulla.",
+    "isOpen": false,
+    "welcomeMessage": "Velit minim aliquip reprehenderit nisi dolor et esse ex ut qui voluptate sunt ipsum proident.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": false
+  },
+  {
+    "name": "Venue 69",
+    "description": "Ullamco exercitation enim consectetur qui reprehenderit fugiat esse exercitation deserunt ex in elit sint. Est cupidatat enim ea nulla reprehenderit irure commodo tempor nisi cupidatat do aliqua aute adipisicing. Laboris exercitation do labore excepteur laboris ipsum ea excepteur magna do incididunt anim consectetur. Est ipsum enim officia dolor dolore.",
+    "isOpen": true,
+    "welcomeMessage": "Deserunt exercitation commodo aliqua reprehenderit dolore consectetur dolore sint in.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": false
+  },
+  {
+    "name": "Venue 21",
+    "description": "Officia consequat sunt occaecat ipsum elit sunt ea magna sunt dolor et. Nostrud eu labore commodo pariatur ea ut esse nostrud aliqua. Laborum culpa sunt adipisicing reprehenderit et cupidatat. Labore dolore laborum voluptate proident elit dolore in eiusmod in exercitation enim.",
+    "isOpen": true,
+    "welcomeMessage": "Incididunt esse laborum fugiat qui tempor irure excepteur veniam eu dolore.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": true
+  },
+  {
+    "name": "Venue 85",
+    "description": "Aute non reprehenderit sint do aute cillum. Ullamco commodo commodo consequat ad laboris dolor ad aute est incididunt. Tempor culpa officia reprehenderit nostrud eu labore.",
+    "isOpen": false,
+    "welcomeMessage": "Voluptate consequat aliqua dolor ea esse aute est aliqua et.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": false
+  },
+  {
+    "name": "Venue 9",
+    "description": "Consequat eiusmod eu laborum dolor labore proident nostrud enim do qui et sunt. Deserunt esse proident duis labore quis reprehenderit. Consectetur aliqua occaecat culpa et occaecat dolore officia qui ex commodo.",
+    "isOpen": true,
+    "welcomeMessage": "Elit et culpa tempor sint eu exercitation.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": true
+  },
+  {
+    "name": "Venue 97",
+    "description": "Enim aute aute est sunt et voluptate cupidatat aliqua consequat. Eu occaecat id exercitation nisi id aliquip tempor sunt irure excepteur ea sit. Dolor reprehenderit nulla ea consectetur proident.",
+    "isOpen": false,
+    "welcomeMessage": "Enim ut esse id do ad aliqua consectetur ut nisi veniam occaecat.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": true
+  },
+  {
+    "name": "Venue 94",
+    "description": "Culpa do commodo eu veniam ullamco ullamco. Exercitation dolore amet et officia enim excepteur eu aliqua enim enim deserunt. Ullamco qui elit eu ullamco do deserunt velit proident aute consectetur est et occaecat.",
+    "isOpen": true,
+    "welcomeMessage": "Ex non et reprehenderit ut ad.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": false
+  },
+  {
+    "name": "Venue 40",
+    "description": "Commodo laborum excepteur eiusmod veniam sit aliqua exercitation nostrud sit proident. Ea sunt et laborum non esse. Mollit sint et labore cupidatat culpa velit ex veniam reprehenderit incididunt nisi mollit.",
+    "isOpen": true,
+    "welcomeMessage": "Aliqua esse minim excepteur aute id laboris enim culpa aute.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": true
+  },
+  {
+    "name": "Venue 90",
+    "description": "Tempor in cillum ex aliqua. Aliqua veniam in duis amet ex consequat sunt ad. Deserunt adipisicing id culpa aliqua reprehenderit.",
+    "isOpen": true,
+    "welcomeMessage": "Labore exercitation commodo quis sunt nisi consectetur commodo eu.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": false
+  },
+  {
+    "name": "Venue 32",
+    "description": "Sint ea quis voluptate ea nisi laboris non laboris reprehenderit nostrud consequat dolor cillum. Exercitation occaecat commodo consequat nostrud deserunt do. Officia sint occaecat amet aliqua id eiusmod nisi dolore est mollit aliqua qui veniam.",
+    "isOpen": false,
+    "welcomeMessage": "Ullamco eu adipisicing adipisicing commodo ut.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": true
+  },
+  {
+    "name": "Venue 61",
+    "description": "Enim et nisi tempor eiusmod esse deserunt velit et est excepteur irure et. Reprehenderit dolore laborum veniam veniam irure et qui eiusmod consequat adipisicing elit occaecat ullamco elit. Commodo nulla eu amet culpa culpa nisi ipsum velit.",
+    "isOpen": true,
+    "welcomeMessage": "Et ullamco do dolor veniam ipsum reprehenderit consectetur ex incididunt enim anim ex cillum.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": true
+  },
+  {
+    "name": "Venue 86",
+    "description": "Mollit commodo laborum irure eiusmod ullamco duis ullamco veniam. Pariatur aute est quis eiusmod aliqua commodo. Ullamco deserunt esse mollit ad eiusmod ut in anim et culpa eiusmod veniam ea.",
+    "isOpen": true,
+    "welcomeMessage": "Esse reprehenderit dolore cillum consequat aliqua laborum voluptate magna qui elit.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": false
+  },
+  {
+    "name": "Venue 29",
+    "description": "Cupidatat commodo deserunt est amet deserunt ea occaecat velit. Duis dolor esse non aliqua incididunt quis reprehenderit nostrud anim. Laborum ad nisi do exercitation laboris non. Tempor duis cupidatat officia tempor consequat irure non culpa voluptate.",
+    "isOpen": true,
+    "welcomeMessage": "Cupidatat laborum quis consectetur est adipisicing qui magna amet est mollit adipisicing sit irure.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": true
+  },
+  {
+    "name": "Venue 18",
+    "description": "Adipisicing proident reprehenderit ea enim veniam ad sint magna voluptate sunt veniam exercitation veniam proident. Fugiat incididunt officia ipsum anim adipisicing enim ex eu qui dolor. Do adipisicing ad dolore velit velit eu culpa occaecat aute incididunt incididunt eu exercitation. Incididunt proident et cupidatat sint ad.",
+    "isOpen": true,
+    "welcomeMessage": "Occaecat ut sint qui elit in exercitation id incididunt enim ut.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": false
+  },
+  {
+    "name": "Venue 5",
+    "description": "Incididunt excepteur velit culpa nisi cillum exercitation irure esse consectetur in anim ex. Ullamco proident labore ea non velit enim ullamco magna occaecat magna reprehenderit magna est voluptate. Ad laboris amet exercitation quis est sint eiusmod tempor velit sint eiusmod esse. Adipisicing sit exercitation veniam incididunt officia fugiat veniam.",
+    "isOpen": true,
+    "welcomeMessage": "Reprehenderit et veniam do eu non eu labore magna do est incididunt aute in.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": true
+  },
+  {
+    "name": "Venue 2",
+    "description": "Exercitation occaecat laborum enim incididunt officia non. Ea eu dolor pariatur aliqua do esse ut consequat dolor et enim ex. Sint dolore irure ea enim ad.",
+    "isOpen": false,
+    "welcomeMessage": "Fugiat ea cillum exercitation excepteur reprehenderit elit laboris ad occaecat eiusmod excepteur esse mollit.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": true
+  },
+  {
+    "name": "Venue 73",
+    "description": "Sunt ut incididunt exercitation aliqua aliquip. Pariatur non consequat incididunt aute. Officia velit reprehenderit magna cillum elit duis proident dolore qui anim. Culpa ipsum duis incididunt tempor occaecat laboris ad aute irure ea.",
+    "isOpen": false,
+    "welcomeMessage": "Veniam excepteur excepteur minim amet commodo sit id aute non consequat elit amet nisi.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": true
+  },
+  {
+    "name": "Venue 39",
+    "description": "Proident duis id eiusmod esse culpa anim adipisicing culpa. Laboris culpa quis cillum sunt ut adipisicing ut. Occaecat adipisicing officia ex veniam.",
+    "isOpen": true,
+    "welcomeMessage": "Eu enim elit duis non consequat esse incididunt eu dolore adipisicing veniam cillum.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": false
+  },
+  {
+    "name": "Venue 82",
+    "description": "Cillum dolore reprehenderit proident dolore anim sint eiusmod quis. Exercitation ullamco ullamco dolor commodo deserunt voluptate consectetur commodo. Dolor velit commodo nisi veniam est ex adipisicing est eu et adipisicing.",
+    "isOpen": true,
+    "welcomeMessage": "Ea elit aliquip sit culpa quis ipsum laboris ipsum officia excepteur dolore id.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": true
+  },
+  {
+    "name": "Venue 11",
+    "description": "Pariatur in anim non cillum in anim in excepteur in. Consequat aliqua consequat aliquip velit tempor sit ullamco incididunt. Minim elit amet anim sint cillum voluptate do proident et. Amet est incididunt do cillum adipisicing sunt labore aute do.",
+    "isOpen": true,
+    "welcomeMessage": "Officia do nulla proident enim eu excepteur nisi proident incididunt aliqua ad culpa anim.",
+    "images": {
+      "thumbnailMedium": ""
+    },
+    "isCurbside": true
+  }
+]
